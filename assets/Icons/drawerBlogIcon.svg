@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="16.1" viewBox="0 0 21 16.1">
+  <g id="Group_3421" data-name="Group 3421" transform="translate(0 -1.95)">
+    <g id="Group_3420" data-name="Group 3420">
+      <g id="newspaper" transform="translate(0 1.95)">
+        <path id="Path_12473" data-name="Path 12473" d="M4.275,5.063V18.888a.875.875,0,1,1-1.75,0V8.563h-1.4V18.888A2.277,2.277,0,0,0,3.4,21.163H19.85a2.277,2.277,0,0,0,2.275-2.275V5.063Zm16.45,13.825a.876.876,0,0,1-.875.875H5.5a2.263,2.263,0,0,0,.175-.875V6.463h15.05Z" transform="translate(-1.125 -5.063)" fill="#3eabf4"/>
+        <path id="Path_12474" data-name="Path 12474" d="M16.988,9.563h-6.3v7h6.3Zm-1.4,5.6h-3.5v-4.2h3.5Z" transform="translate(-4.738 -6.763)" fill="#3eabf4"/>
+        <path id="Path_12475" data-name="Path 12475" d="M23.063,9.563h4.55v1.4h-4.55Z" transform="translate(-9.413 -6.763)" fill="#3eabf4"/>
+        <path id="Path_12476" data-name="Path 12476" d="M23.063,14.063h4.55v1.4h-4.55Z" transform="translate(-9.413 -8.463)" fill="#3eabf4"/>
+        <path id="Path_12477" data-name="Path 12477" d="M23.063,18.563h4.55v1.4h-4.55Z" transform="translate(-9.413 -10.163)" fill="#3eabf4"/>
+      </g>
+    </g>
+  </g>
+</svg>

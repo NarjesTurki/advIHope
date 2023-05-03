@@ -1,0 +1,132 @@
+1--> get: -
+	Use this package for routing, dependencies, stateManagement.
+
+2--> get_storage: -
+	Use this package for local storage.
+
+3--> dio: -
+	Use this package for Http client for Dart, which supports Interceptors, Global configuration, FormData, Request Cancellation, File downloading, Timeout etc.
+
+4--> global_configuration: -
+	Use this package for managing different configurations by merging them together and making them available everywhere inside the app via a singleton.
+
+
+5--> skeleton_loader: -
+	A Flutter Package which provides a fully customizable loading skeleton for your app.
+
+
+6--> flutter_rating_bar: -
+    A simple yet fully customizable rating bar for flutter which also include a rating bar indicator, supporting any fraction of rating.
+
+7--> flutter_svg: -
+    For display SVG format images.
+
+8--> progress_indicator: -
+    For creating progress bar according to percentage.
+
+9--> image_picker_gallery_camera: -
+    For pick images and videos.
+
+10--> geolocator: -
+    For pick current location.
+
+
+11--> modal_progress_hud: -
+    Display progress indicator for showing that task is in process.
+
+12--> uuid: -
+    For generating unique id for diff tasks.
+
+
+13--> resize: -
+    A Simple Responsive Design Approach for your Flutter Apps.
+
+14--> intl_phone_field: -
+    A customised Flutter TextFormField to input international phone number along with country code
+
+15--> pin_code_fields: -
+    A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful for OTP or pin code inputs
+
+16--> file_picker: -
+    A package that allows you to use the native file explorer to pick single or multiple files, with extensions filtering support
+
+17--> datetime_picker_formfield: -
+    A TextFormField that emits DateTimes and helps show Material, Cupertino, and other style picker dialogs.
+
+18--> syncfusion_flutter_calendar: unknown (LICENSE) -
+    The Flutter Calendar widget has built-in configurable views such as day, week, workweek, month, schedule, timeline day, timeline week, timeline workweek and timeline month that provide basic functionalities for scheduling.
+
+19--> mask_text_input_formatter: -
+    The package provides TextInputFormatter for TextField and TextFormField which format the input by a given mask
+
+20--> animation_wrappers: -
+    Animation Wrapper widgets, just wrap the child to be animated with this wrapper widget and that child will be animated.
+
+21--> modal_bottom_sheet: -
+    Create awesome and powerful modal bottom sheets. Material, Cupertino iOS 13 or create your own style.
+
+22--> permission_handler: -
+    Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.
+
+23--> syncfusion_flutter_charts: unknown (LICENSE) -
+    A Flutter Charts library which includes data visualization widgets such as cartesian and circular charts, to create real-time, interactive, high-performance, animated charts.
+
+24--> rounded_expansion_tile: -
+    A simple combination of widgets to provide an Expansiontile with rounded corners.
+
+25--> pull_to_refresh: -
+    A widget provided to the flutter scroll component drop-down refresh and pull up load
+
+26--> maps_launcher: -
+    Simple Flutter plugin to open the maps application (or browser) on all platforms.
+
+27--> photo_view: -
+    Photo View provides a gesture sensitive zoomable widget. Photo View is largely used to show interactive images and other stuff such as SVG
+
+28--> flutter_inappwebview: unknown (LICENSE) -
+    A Flutter plugin that allows you to add an inline webview, to use an headless webview, and to open an in-app browser window.
+
+29--> url_launcher: BSD-3-Clause (LICENSE) -
+    Flutter plugin for launching a URL. Supports web, phone, SMS, and email schemes.
+
+30--> geocoding: -
+    A Flutter Geocoding plugin which provides easy geocoding and reverse-geocoding features.
+
+31--> system_settings: -
+    Flutter plugin to open system and app settings on iOS and Android.
+
+32--> app_settings: -
+    A Flutter plugin for opening iOS and Android phone settings from an app.
+
+33--> agora_rtc_engine: -
+    Flutter plugin to simply integrate Agora Video Calling or Live Video Streaming to your app with just a few lines of code.
+
+34--> pusher_client: -
+    A Pusher Channels client plugin for Flutter targeting Android and iOS. It wraps pusher-websocket-java v2.2.5 and pusher-websocket-swift v8.0.0.
+
+35--> firebase_core: BSD-3-Clause (LICENSE) -
+    Flutter plugin for Firebase Core, enabling connecting to multiple Firebase apps.
+
+36--> firebase_auth: BSD-3-Clause (LICENSE) -
+    Flutter plugin for Firebase Auth, enabling Android and iOS authentication using passwords, phone numbers and identity providers like Google, Facebook and Twitter.
+
+37--> firebase_messaging: BSD-3-Clause (LICENSE) -
+    Flutter plugin for Firebase Auth, enabling Android and iOS authentication using passwords, phone numbers and identity providers like Google, Facebook and Twitter.
+
+38--> flutter_local_notifications: BSD-3-Clause (LICENSE) -
+    A cross platform plugin for displaying and scheduling local notifications for Flutter applications with the ability to customise for each platform.
+
+39--> flutter_ringtone_player: -
+    A simple player for system default ringtones, alarms and notifications
+
+40--> device_info_plus: BSD-3-Clause (LICENSE) -
+    Flutter plugin providing detailed information about the device (make, model, etc.), and Android or iOS version the app is running on.
+
+41--> flutter_vibrate: -
+    A Flutter plugin to vibrate the device. This uses all the current Haptic Feedback APIs from Apple and provides similar feedback on Android.
+
+42--> razorpay_flutter: -
+    Flutter plugin for Razorpay SDK.
+
+43--> flutterwave_standard: -
+    Flutterwave's official library that wraps the standard implementation.

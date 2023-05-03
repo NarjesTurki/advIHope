@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1009985589049",
+    "project_id": "ista-app-a75fe",
+    "storage_bucket": "ista-app-a75fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009985589049:android:60abf777b47a602b0622e8",
+        "android_client_info": {
+          "package_name": "com.example.ista_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009985589049-4qa5l4jfa0o6d6d1nh63o8p0lb7pauue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ista_app",
+            "certificate_hash": "18b91e31ca87c3f5a0c090b74de8ad3142987f85"
+          }
+        },
+        {
+          "client_id": "1009985589049-8qnb37m3l990hc27n4h25p4kfeao5gp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOFMqaGgf-vr0P_wgeo-kj9h6JbO58LFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009985589049-8qnb37m3l990hc27n4h25p4kfeao5gp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
